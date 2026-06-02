@@ -1,7 +1,7 @@
-# 🧰 Claude Code Engineering Skills
+# 🧰 Claude Code 新手安心神技
 
-> 让 AI **像资深工程师一样写代码、审代码、记经验**的一套 Claude Code 技能。
-> Make your AI agent code like a senior engineer — with discipline, taste, and memory.
+> **Claude Code Starter Kit** —— 让 AI **像资深工程师一样写代码、审代码、记经验**；新手装上就安心。
+> Make your AI agent code, review, and remember like a senior engineer — with discipline, taste, and memory.
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Skills-6E56CF)
 ![skills](https://img.shields.io/badge/skills-3-2EA043)
