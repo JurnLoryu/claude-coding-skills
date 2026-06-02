@@ -104,12 +104,19 @@ skills/
 
 ## 🚀 安装
 
-```bash
-# macOS / Linux
-cp -r coding code-polish memory ~/.claude/skills/
+一键脚本（推荐）：
 
-# Windows (PowerShell)
-Copy-Item coding,code-polish,memory $env:USERPROFILE\.claude\skills\ -Recurse
+```bash
+bash install.sh        # macOS / Linux / Git Bash
+```
+```powershell
+./install.ps1          # Windows PowerShell
+```
+
+或手动拷贝：
+
+```bash
+cp -r coding code-polish memory ~/.claude/skills/
 ```
 
 重开会话即生效。
